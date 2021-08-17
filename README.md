@@ -42,11 +42,7 @@ For statistics, it supports mean, variance, and standard deviation for eligible 
 <details>
    <summary>Click to expand!</summary>
 
-
- ![](readme_res//gif.gif)
-
-
-
+   <img src="readme_res//gif.gif" width="180"/>
 
    <img src="readme_res//Screenshot_20210817-134155.jpg" width="180"/>
 
