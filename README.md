@@ -25,15 +25,15 @@ The distributions supported are as follows:
 
 2. Continuous
 
-    1.1 Uniform
+    2.1 Uniform
 
-    1.2 Normal
+    2.2 Normal
 
-    1.3 Exponential
+    2.3 Exponential
 
-    1.4 Weibull
+    2.4 Weibull
 
-    1.5 Lognormal
+    2.5 Lognormal
 
 For statistics, it supports mean, variance, and standard deviation for eligible distributions.
 
