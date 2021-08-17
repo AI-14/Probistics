@@ -59,7 +59,7 @@ For statistics, it supports mean, variance, and standard deviation for eligible 
 <details>
    <summary>Click to expand!</summary>
 
-
+   - Make sure you have flutter and dart sdk installed and setup.
    - Download/clone this repository. Then open terminal (make sure you are in the project's directory).
    - Run ````flutter devices```` and select which device you want to run it on. It is always better to run an app on your physical device. 
 
